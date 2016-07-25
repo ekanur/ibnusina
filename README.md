@@ -4,8 +4,6 @@ Site Design references:
 
 http://nadikun.com/code/paper-audio-player/demo/
 
-coba edit
-
 usefull resource:
 
 0. http://nadikun.com/paper-audio-player-for-polymer-1/
